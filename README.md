@@ -1,6 +1,3 @@
 # Python Practice
-## How to install requirements.txt
 
-```
-pip install -r /path/to/requirements.txt
-```
+This project is using for practice the Python programming language
