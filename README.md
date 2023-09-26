@@ -1,6 +1,14 @@
 # Python Practice
-## How to install requirements.txt
 
+### Practicing on Linux distribution (Ubuntu)
+#### Setup virtual environment
+```bash
+python3 -m venv env
+source ./env/bin/activate
 ```
-pip install -r /path/to/requirements.txt
+
+#### Install project requirements
+
+```bash
+pip3 install -r /path/to/requirements.txt
 ```
