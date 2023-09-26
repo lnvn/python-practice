@@ -35,6 +35,7 @@ print_lol(fav_movies)
 
 #### Upload code to PyPI
 ```python
-python3 setup.py register
-python3 setup.py sdist upload
+python3 setup.py sdist
+pip3 install twine
+twine upload dist/* --repository testpypi
 ```
