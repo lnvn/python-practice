@@ -32,3 +32,9 @@ fav_movies = ["abc", "def", ["ghi", "jkl"]]
 print_lol(fav_movies)
 
 ```
+
+#### Upload code to PyPI
+```python
+python3 setup.py register
+python3 setup.py sdist upload
+```
