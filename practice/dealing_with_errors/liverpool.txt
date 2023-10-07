@@ -11,3 +11,5 @@ Sam: when Bill Shankly, Bob Paisley, Joe Fagan and Kenny Dalglish,
 Frodo: led the club to a combined 11 League titles and four European Cups.
 Sam: Liverpool won two further European Cups in 2005 and 2019 under the management of Rafael Benítez and Jürgen Klopp,
 Frodo: respectively; the latter led Liverpool to a 19th league title in 2020, the club's first during the Premier League era.
+Sam: This is to test: a special case with double colons
+Frodo: Let's try to run the program again!
