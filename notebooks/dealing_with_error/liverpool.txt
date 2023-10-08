@@ -1,0 +1,15 @@
+Frodo: Liverpool Football Club is a professional football club based in Liverpool, England.
+Sam: The club competes in the Premier League, the top tier of English football.
+Frodo: Founded in 1892, the club joined the Football League the following year
+Sam: and has played its home games at Anfield since its formation.
+Frodo: Domestically, the club has won 19
+Sam: league titles, eight FA Cups, a record nine League Cups and 16 FA Community Shields.
+Frodo: In international competitions, the club has won six European Cups, 
+Sam: three UEFA Cups, four UEFA Super Cups—all English records—and one FIFA Club World Cup.
+Frodo: The club established itself as a major force in domestic and European football in the 1970s and 1980s,
+Sam: when Bill Shankly, Bob Paisley, Joe Fagan and Kenny Dalglish,
+Frodo: led the club to a combined 11 League titles and four European Cups.
+Sam: Liverpool won two further European Cups in 2005 and 2019 under the management of Rafael Benítez and Jürgen Klopp,
+Frodo: respectively; the latter led Liverpool to a 19th league title in 2020, the club's first during the Premier League era.
+Sam: This is to test: a special case with double colons
+Frodo: Let's try to run the program again!
