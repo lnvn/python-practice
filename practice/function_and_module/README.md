@@ -39,3 +39,21 @@ python3 setup.py sdist
 pip3 install twine
 twine upload dist/* --repository testpypi
 ```
+
+#### What we have learned in this session
+- Use function to reuse the cose
+- Build and upload a python module
+- Recursive function
+
+example
+```python
+def print_lol(the_list, level=0):
+    for item in the_list:
+        if isinstance(item, list):
+            # here we have recursive function
+            print_lol(item, level+1)
+        else:
+            for tab_stop in range(level):
+                print("\t", end='')
+            print(item)
+```
